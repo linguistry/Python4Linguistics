@@ -5,4 +5,4 @@ When developing a word list for students, it is not easy to add pronunciation sy
 
 
 ## 02 : Count syllables using CMU dictionary 
-Count syllables in a sentence using CMU dictionary when the word is in the dictionary. Words not included in the CMU dictionary are counted based on letters. (https://github.com/linguistry/Python4Linguistics/blob/main/01_Add_pronun_sent_git.ipynb)
+Count syllables in a sentence using CMU dictionary when the word is in the dictionary. Words not included in the CMU dictionary are counted based on letters. (https://github.com/linguistry/Python4Linguistics/blob/main/02_syllable_count.ipynb)
